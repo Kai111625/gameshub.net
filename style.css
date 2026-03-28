@@ -1,0 +1,32 @@
+.card{
+ display: inline-block;
+ width: 18%;   
+ background: rgb(194, 225, 57);
+ border-radius: 5px;
+
+}
+img{
+    border-radius: 5px 5px 0 0;
+    width:100%;
+}
+body{
+    text-align: center;
+}
+h1{
+    color: #e70fb197;
+}
+.card{
+    color: blueviolet;
+}
+body{
+    background-color: rgb(70, 218, 154);
+}
+.butten{
+    text-decoration: none;
+    background: rgb(192, 192, 192);
+    color: rgb(13, 131, 234);
+    width: 40%;
+    display: inline-block;
+    font-size: 14px;
+    border-radius: 2px 2px 2px 2px;
+}
